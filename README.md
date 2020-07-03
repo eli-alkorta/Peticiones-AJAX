@@ -1,1 +1,3 @@
-# Peticiones-AJAX
+# Peticiones AJAX
+
+![AJAX](/images/Peticiones_AJAX.png)

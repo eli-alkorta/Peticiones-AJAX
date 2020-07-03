@@ -1,0 +1,1 @@
+Estás recibiendo información desde un archivo .txt
