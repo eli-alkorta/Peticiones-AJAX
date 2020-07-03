@@ -1,3 +1,3 @@
 # Peticiones AJAX
 
-![AJAX](./images/ajax.png)
+![AJAX](ajax.png)
